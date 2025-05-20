@@ -66,3 +66,19 @@ An example JSON file is provided as the data source (src/assets/database.json). 
 - Optional: Attractive design - Surprise us with your UI/UX skills 😀
 - Optional: Mobile-friendly design: think about how to make the table responsive
 
+
+## Setup
+
+This project uses [Vue](https://vuejs.org/) with [Vite](https://vitejs.dev/).
+To start the development server run:
+
+```bash
+npm install
+npm run dev
+```
+
+The app will be available at `http://localhost:5173` by default.
+
+This setup comes preconfigured with **Tailwind CSS v4** and **DaisyUI v5**. Styles are imported in `src/style.css` using the new `@import "tailwindcss"` syntax with DaisyUI.
+
+The default page shows a simple exercise timer component styled with DaisyUI.
