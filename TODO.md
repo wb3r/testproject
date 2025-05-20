@@ -1,3 +1,3 @@
 # TODO
 
-- [ ] Write documentation for setting up the project
+- [x] Write documentation for setting up the project
